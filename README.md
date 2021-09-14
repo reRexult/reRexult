@@ -1,2 +1,2 @@
 - 🔭 I’m currently working on creating a more active and professional Github profile.
-- 🌱 I’m currently learning Solidity, Web3, Javascript and the EVM.
+- 🌱 I’m currently learning Solidity, Web3 and the EVM.
