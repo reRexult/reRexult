@@ -10,5 +10,3 @@ BIO
 💬 hmu about mostly anything in the cryptocurrency space, Always looking to make friends;
 📫 Reach me: rerexult@protonmail.com;
 🍑 I play well with others;
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
