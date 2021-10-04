@@ -9,4 +9,4 @@
 💅 Designed: Tokens, Governance Models, AMMs, Staking Protocols (but swore to secrecy);<br>
 💬 hmu about mostly anything in the cryptocurrency space, Always looking to make friends;<br>
 📫 Reach me: rerexult@protonmail.com;<br>
-🍑 I play well with others;<br>
+🍑 VICEwrld.com Solidity Dev;<br>
