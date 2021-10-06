@@ -1,5 +1,5 @@
      ☀️ I find solace in Solidity ☀️
-<br><hr>
+<br>
 ✨ Know my way around smart contracts like Stevie Wonder in a music shop;<br>
 🌍 Sci-Fi till I die;<br>
 🌱 Studying Daoism in my free time;<br>
